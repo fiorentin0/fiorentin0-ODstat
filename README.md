@@ -1,6 +1,7 @@
 # fiorentin0-ODstat
 
 Простой Telegram-бот, который предоставляет различную информацию о игроках и командах ЧГК.
+Ссылка на pythonanywhere: 
 
 ## Что бот умеет
 
@@ -20,7 +21,7 @@ python -m venv venv
 потом установите зависимости
 
 ```commandline
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Запуск
