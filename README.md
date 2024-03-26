@@ -1,7 +1,7 @@
 # fiorentin0-ODstat
 
 Простой Telegram-бот, который предоставляет различную информацию о игроках и командах ЧГК.
-Ссылка на pythonanywhere: 
+Ссылка на pythonanywhere: https://www.pythonanywhere.com/user/fiorentin0/files/home/fiorentin0/run_bot.py?edit
 
 ## Что бот умеет
 
