@@ -287,13 +287,13 @@ async def handle_text_message(message: Message):
     elif message.text == "3. Топ-10 команд игрока по рейтингу":
         await message.answer("Окей, а теперь напиши id игрока, о котором ты хочешь узнать")
         wait[message.chat.id] = 3
-    elif message.text == "4. Топ-10 команд игрока, по его числу участий":
+    elif message.text == "4. Топ-10 команд игрока по его числу участий":
         await message.answer("Окей, а теперь напиши id игрока, о котором ты хочешь узнать")
         wait[message.chat.id] = 4
     elif message.text == "5. Все команды игрока по рейтингу":
         await message.answer("Окей, а теперь напиши id игрока, о котором ты хочешь узнать")
         wait[message.chat.id] = 5
-    elif message.text == "6. Все команды игрока, по его числу участий":
+    elif message.text == "6. Все команды игрока по его числу участий":
         await message.answer("Окей, а теперь напиши id игрока, о котором ты хочешь узнать")
         wait[message.chat.id] = 6
     elif message.text == "7. График активности игрока":
